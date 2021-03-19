@@ -15,7 +15,7 @@ contact:
 ---
 
 ---
-The Input to this application will be "your daily class lectures" and the expected output is a brief but detailed summary of the entire lecture.
+Meta Learning enables us to train machine learning models on multiple tasks simultaneously. A new task can be added using little or no training data. 
 
 <!--break-->
 
